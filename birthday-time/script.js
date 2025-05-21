@@ -12,5 +12,5 @@ let userMinutes =+prompt("لطفا تایم را برحسب دقیقه وارد 
 let hours =Math.floor(userMinutes / 60);
 let minutes=(userMinutes % 60);
 
-alert(hours+"H, "+minutes+"M ")
+alert(hours+"H, "+minutes+"M ");
 
